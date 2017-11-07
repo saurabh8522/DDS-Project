@@ -22,3 +22,12 @@ This will open .vcd file. Check the waveforms.
 
 ### To test Dataflow Level Modelling
 - Follow all the steps as in Behavioral Modelling replacing `VerilogBM` with `VerilogDM` everywhere.
+
+## Screenshots of simulation
+### Console Output
+
+<img src="https://github.com/vichitr/DDS-Project/blob/master/Images/verilogBM.png" width="850" height="850" />
+
+### GTKWave Output
+
+<img src="https://github.com/vichitr/DDS-Project/blob/master/Images/gtkwave.png" width="850" height="450" />
