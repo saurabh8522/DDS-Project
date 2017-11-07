@@ -3,7 +3,7 @@ This is my mini project for Digital Design of Systems
 
 ## Title: 0-99 COUNTER
 
-   <img style="center" src="https://github.com/vichitr/DDS-Project/blob/master/Images/counter.png" width="100" height="100" />
+   <img style="center" src="https://github.com/vichitr/DDS-Project/blob/master/Images/99%20counter.png" width="100" height="100" />
 
 ## TEAM MEMBERS
   1. [Vichitr](https://github.com/vichitr)
