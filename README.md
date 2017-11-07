@@ -5,6 +5,7 @@ This is my mini project for Digital Design of Systems
 <p align="center">
    <img style="center" src="https://github.com/vichitr/DDS-Project/blob/master/Images/99%20counter.png" width="100" height="100" />
 </p>
+
 ## TEAM MEMBERS
   1. [Vichitr](https://github.com/vichitr)
   2. [Shashank Kumar](https://github.com/sknitk)
