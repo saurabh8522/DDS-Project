@@ -1,13 +1,13 @@
-# DDS-Project
+# DDS Project
 This is my mini project for Digital Design of Systems
 
-## Title - 0-99 COUNTER
+## Title: 0-99 COUNTER
 
-## Team members:
+## TEAM MEMBERS:
   1. [Vichitr](https://github.com/vichitr)
   2. [Shashank Kumar](https://github.com/sknitk)
   
- ### OBJECTIVE
+ ### OBJECTIVES
  
 - This project aims to simulate the working of display of a 0-99 Counter. 
 - The counter starts counting from 0 and counts till 99 then again it resets to 0.  
@@ -20,7 +20,7 @@ This is my mini project for Digital Design of Systems
 - This project covers the concepts of Number Systems, Boolean Algebra (K-Maps simplification of Boolean equations), Combinational - Circuits and Sequential Circuits.
 - From this mini-project, we intend to learn the working of synchronous counters and their application in daily life digital logic circuits.
 
-### APPLICATION
+### APPLICATIONS
 - This circuit can be used in various projects where we require the counting. Like in doctors’ clinic or hospitals, in restaurants, in customer care offices where long queue is there and we want to stop the rush at the counter. This system is very effective where man power is less. In this you have to provide a token to the person and the person has to wait for its turn which can be displayed on the 7-segment display. With the help of this counter circuit we can maintain the silence and the person will also be informed about their turn.
 - This circuit can be used in Digital Clock, Timer, Stopwatch.
 
